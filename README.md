@@ -28,3 +28,7 @@
 - 오류: opencv_world490d.dll 을 현재 프로젝트 폴더에 복사하기
 - 솔루션을 빌드하고 실행하여 설정이 올바르게 되었는지 확인
 
+테스트 영상
+
+https://github.com/JoYeongBeom/Cpp-edge/assets/127731008/c56e5722-4778-4ce7-8d25-f45dc7ba975a
+
